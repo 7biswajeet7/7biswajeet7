@@ -1,4 +1,4 @@
-👋 Hi there! I'm Biswajeet Jena, a passionate Machine Learning Enthusiast with a strong foundation in Data Science, Deep Learning and Python .
+👋 Hi there! I'm Biswajeet Jena, a passionate Machine Learning Enthusiast with a strong foundation in Data Analytics, Deep Learning, SQL and Python .
 
 💡 I see satisfaction as a book of achievements, encapsulating my learning experiences from experimentation, failures, tweaks, to successful project implementations.
 
