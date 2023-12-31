@@ -6,8 +6,8 @@
 - **Machine Learning:** Leveraging algorithms to derive insights and predictions.
 - **Deep Learning:** Exploring neural networks for complex problem-solving.
 - **Data Analytics:** Uncovering patterns and trends to drive informed decision-making.
-- **SQL Development:** Crafting efficient and powerful database queries.
-- **Python Development:** Building scalable and robust applications.
+- **SQL :** Crafting efficient and powerful database queries.
+- **Python :** Building scalable and robust applications.
 
 🌐 Connect with me:
 - [LinkedIn 💼](https://www.linkedin.com/in/biswajeet-jena-250541226/)
