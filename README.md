@@ -5,7 +5,7 @@
 🚀 Here's a snapshot of my skills and interests:
 - **Machine Learning:** Leveraging algorithms to derive insights and predictions.
 - **Deep Learning:** Exploring neural networks for complex problem-solving.
-- **Data Science:** Uncovering patterns and trends to drive informed decision-making.
+- **Data Analytics:** Uncovering patterns and trends to drive informed decision-making.
 - **SQL Development:** Crafting efficient and powerful database queries.
 - **Python Development:** Building scalable and robust applications.
 
