@@ -1,4 +1,4 @@
-👋 Hi there! I'm Biswajeet Jena, a passionate Machine Learning Enthusiast with a strong foundation in Data Analytics, Deep Learning, SQL and Python .
+👋 Hi there! I'm Biswajeet Jena, a passionate Data Science Enthusiast with a strong foundation in Data Analytics, Machine Learning, Deep Learning, Python, SQL and Power BI .
 
 💡 I see satisfaction as a book of achievements, encapsulating my learning experiences from experimentation, failures, tweaks, to successful project implementations.
 
@@ -8,6 +8,7 @@
 - **Data Analytics:** Uncovering patterns and trends to drive informed decision-making.
 - **SQL :** Crafting efficient and powerful database queries.
 - **Python :** Building scalable and robust applications.
+- **Power BI :** Creating Powerful and Insightful Data Visualizations for Informed Decision-Making.
 
 🌐 Connect with me:
 - [LinkedIn 💼](https://www.linkedin.com/in/biswajeet-jena-250541226/)
